@@ -86,7 +86,7 @@ A second active booking whose occupied interval overlaps this one returns `409 C
 pip install -e '.[dev]'
 ruff check .
 mypy app
-a pytest
+pytest
 ```
 
 ## Project structure
