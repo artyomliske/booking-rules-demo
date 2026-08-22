@@ -108,3 +108,5 @@ This is intentionally small. It does not implement authentication, payments, ret
 ## License
 
 MIT
+
+[View the full portfolio case →](https://artyomliske.ru/#case-booking)
